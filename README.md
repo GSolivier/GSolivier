@@ -1,12 +1,7 @@
-### Seja bem-vindo(a) ao meu perfil!
-<div>
-  Me chamo Guilherme Sousa Oliveira, tenho 20 anos e comecei minha carreira na área de T.I em 2023, no Curso de Análise de Sistemas na instituição SENAI "Paulo Antônio Skaf" em São Caetano do Sul.
-</div>
+# 👋 Hello! Welcome to my Github profile.
+## My name is Guilherme Sousa Oliveira and my nickname is "GSolivier"!
 
 
-<div>
-  <a href="https://github.com/GSolivier">
-</div>
   
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,)](https://skillicons.dev)
   
