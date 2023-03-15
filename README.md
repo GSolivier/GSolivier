@@ -1,4 +1,4 @@
-# 👋 Olá! Bem vindo ao meu perfil do GitHub!
+# 👋 Olá! Bem vindo(a) ao meu perfil do GitHub!
 
 - Me chamo Guilherme Sousa Oliveira, tenho 20 anos, e atualmente estou cursando Análise de sistemas na instituição SENAI "Paulo Antônio Skaf", em São Caetano do Sul. 
 - Minha carreira na área de tecnologia se iniciou oficialmente no ano de 2023, mas quando era mais jovem, sempre tive curiosidade e vontade de ingressar nessa área.
