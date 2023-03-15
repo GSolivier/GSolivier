@@ -1,28 +1,28 @@
 # 👋 Hello! Welcome to my Github profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Me chamo Guilherme Sousa Oliveira, tenho 20 anos, e atualmente estou curso Análise de sistemas da instituição SENAI "Paulo Antônio Skaf", em São Caetano do Sul. 
+- Minha carreira na área de tecnologia se iniciou oficialmente no ano de 2023, mas quando era mais jovem, sempre tive curiosidade e vontade de ingressar nessa área.
 
+- Atualmente, estou aprendendo HTML e CSS.
 
-  
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,)](https://skillicons.dev)
-  
- <div> 
-  <a href="https://www.linkedin.com/in/guilherme-sousa-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-   
- ## Information about my GitHub:
+     
+ ## Informações sobre meu perfil do GitHub
  <div>
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GSolivier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSolivier&layout=compact&langs_count=7&theme=dark"/>
  </div>
  
+ ##Contatos
+ 
+ <div>
+  <a href="https://www.twitch.tv/waternoose_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/guisous11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-sousa-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:guilhermesousa1110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
