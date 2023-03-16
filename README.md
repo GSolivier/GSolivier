@@ -9,10 +9,13 @@ Atualmente estou estudando e aperfeiçoando minhas habilidades em HTML e CSS.
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,)](https://skillicons.dev)
      
  ## Informações sobre meu perfil do GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSolivier&show_icons=true&theme=radical)](https://github.com/GSolivier/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSolivier&layout=compact)](https://github.com/GSolivier/github-readme-stats)
+<div>
+  <a href="https://github.com/GSolivier">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GSolivier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSolivier&layout=compact&langs_count=7&theme=dark"/>
+</div>
  
- ## Links
+  ## Links
  
  <div>
    <a href="https://gsolivier.github.io/meu-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)"></a> (<-- Em desenvolvimento)
