@@ -14,8 +14,10 @@
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSolivier&layout=compact&langs_count=7&theme=dark"/>
  </div>
  
- ## Contatos
+ ## Links
+ 
  <div>
+   <a href="https://gsolivier.github.io/meu-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)"></a>
   <a href="https://www.twitch.tv/waternoose_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/guisous11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-sousa-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
