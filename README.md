@@ -1,6 +1,9 @@
 # Olá! Bem vindo(a) ao meu perfil do GitHub!
 
-Me chamo Guilherme Sousa Oliveira, tenho 20 anos, e atualmente estou cursando Análise de sistemas na instituição SENAI "Paulo Antônio Skaf", em São Caetano do Sul. Minha carreira na área de tecnologia se iniciou oficialmente no ano de 2023, mas quando era mais jovem, sempre tive curiosidade e vontade de ingressar nessa área.
+Me chamo Guilherme, tenho 20 anos, e atualmente estou cursando Análise de sistemas na instituição SENAI "Paulo Antônio Skaf", em São Caetano do Sul.<br>
+Minha carreira na área de tecnologia se iniciou oficialmente no ano de 2023, mas quando era mais jovem, sempre tive curiosidade e vontade de ingressar nessa área. <br>
+
+Atualmente estou estudando e aperfeiçoando minhas habilidades em HTML e CSS.
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,)](https://skillicons.dev)
