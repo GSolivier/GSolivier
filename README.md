@@ -10,13 +10,16 @@ Atualmente estou estudando C#.
 
 ## 🧰 Ferramentas 
 [![My Skills](https://skillicons.dev/icons?i=figma,git,vscode)](https://skillicons.dev)
-     
+
+
  ## ℹ️ Informações sobre meu perfil do GitHub 
-<div>
+
+<p align = "center">
   <a href="https://github.com/GSolivier">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GSolivier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSolivier&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</p>
+ 
  
   ## 🔗 Links 
  
