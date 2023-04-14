@@ -6,7 +6,7 @@ Minha carreira na área de tecnologia se iniciou oficialmente no ano de 2023, ma
 Atualmente estou estudando C#.
 
 ## 🤹 Habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs)](https://skillicons.dev)
 
 ## 🧰 Ferramentas 
 [![My Skills](https://skillicons.dev/icons?i=figma,git,vscode)](https://skillicons.dev)
