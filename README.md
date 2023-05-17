@@ -9,7 +9,7 @@ Atualmente estou estudando C#.
 [![My Skills](https://skillicons.dev/icons?i=html,css,cs)](https://skillicons.dev)
 
 ## 🧰 Ferramentas 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,vscode,visualstudio,dotnet)](https://skillicons.dev)
 
 
  ## ℹ️ Informações sobre meu perfil do GitHub 
