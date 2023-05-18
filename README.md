@@ -1,18 +1,32 @@
 # 👋 Olá! Bem vindo(a) ao meu perfil do GitHub!
 
+<img src="https://media1.giphy.com/media/bBUQPfg7l5kAM/giphy.gif?cid=ecf05e47pq82ka4d0ja0caa7nrq45wvmzwoistz42a32gqgu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180px" height="100px" align="right" alt="A silly cat">
 Me chamo Guilherme, tenho 20 anos, e atualmente estou cursando Análise de sistemas na instituição SENAI "Paulo Antônio Skaf", em São Caetano do Sul.<br>
 Minha carreira na área de tecnologia se iniciou oficialmente no ano de 2023, mas quando era mais jovem, sempre tive curiosidade e vontade de ingressar nessa área. <br>
 
 Atualmente estou estudando C#.
 
-## 🤹 Habilidades
+
+
+<hr>
+
+
+<div align="center">
+ 
+### Habilidades
 [![My Skills](https://skillicons.dev/icons?i=html,css,cs)](https://skillicons.dev)
+ 
 
-## 🧰 Ferramentas 
+
+###  Ferramentas 
 [![My Skills](https://skillicons.dev/icons?i=figma,git,vscode,visualstudio,dotnet)](https://skillicons.dev)
+</div>
 
+ <hr>
+ 
+ <div align="center">
 
- ## ℹ️ Informações sobre meu perfil do GitHub 
+ ### Informações sobre meu perfil do GitHub 
 
 <p align = "center">
   <a href="https://github.com/GSolivier">
@@ -20,8 +34,12 @@ Atualmente estou estudando C#.
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSolivier&layout=compact&langs_count=7&theme=dark"/>
 </p>
  
+ <hr>
  
-  ## 🔗 Links 
+ <div>
+ 
+ 
+  ### 🔗 Links 
  
  <div>
    <a href="https://gsolivierdev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)"></a>
