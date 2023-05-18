@@ -2,7 +2,7 @@
 
 <img src="https://media1.giphy.com/media/bBUQPfg7l5kAM/giphy.gif?cid=ecf05e47pq82ka4d0ja0caa7nrq45wvmzwoistz42a32gqgu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200px" height="100px" align="right" alt="TARDIS">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&width=800px&height=100&color=002CF7&center=false&vCenter=true&lines=Hello+World!;Seja+bem+vindo(a)+ao+meu+perfil!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&width=800px&height=100px&color=002CF7&center=false&vCenter=true&lines=Hello+World!;Seja+bem+vindo(a)+ao+meu+perfil!+:D)](https://git.io/typing-svg)
 
 
 <hr>
