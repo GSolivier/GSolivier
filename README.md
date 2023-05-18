@@ -56,13 +56,6 @@
   
  <hr>
  
-
- 
- ### 🎶🎶🎶
-  ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d3t2z5gu6eddpp44i563u6sjuu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=002aff)
- 
-<hr>
- 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
  <hr>
