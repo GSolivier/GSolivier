@@ -8,7 +8,7 @@
 <hr>
 
 <div>
-✨ Me chamo Guilherme, e atualmente estou cursando Análise e desenvolvimento de sistemas no SENAI de Informática. <br>
+✨ Me chamo Guilherme, e atualmente estou cursando análise e desenvolvimento de sistemas na escola SENAI de Informática. <br>
  <br>
 ✨ Meu primeiro contato com a programação foi em 2018, enquanto cursava Manutenção Eletroeletrônica. Lá, eu vi um pouco sobre programação com arduíno. <br>
  <br>
@@ -17,6 +17,17 @@
 </div>
 
 
+<hr>
+
+<div align="center">
+ 
+ <h3> Formação Acadêmica</h3>
+ <br>
+</div>
+
+⚙️ Curso de Aprendizagem Industrial (CAI) - Eletricista de Manutenção Eletroeletrônica - SENAI "Manuel Garcia Filho"<br>
+⚙️ Curso de Aprendizagem Industrial (CAI) - Auxiliar de Produção - SENAI "Armando de Arruda Pereira"<br>
+💻 Técnico em Desenvolvimento de Sistemas - Escola SENAI de Informática "Paulo Antonio Skaf" <br>
 <hr>
 
 
