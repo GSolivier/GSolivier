@@ -22,13 +22,15 @@
 <div align="center">
  
  <h3> Formação Acadêmica</h3>
- <br>
-</div>
-
-⚙️ Curso de Aprendizagem Industrial (CAI) - Eletricista de Manutenção Eletroeletrônica - SENAI "Manuel Garcia Filho"<br>
-⚙️ Curso de Aprendizagem Industrial (CAI) - Auxiliar de Produção - SENAI "Armando de Arruda Pereira"<br>
+ 
+⚙️ CAI - Eletricista de Manutenção Eletroeletrônica - SENAI "Manuel Garcia Filho"<br>
+⚙️ CAI - Auxiliar de Produção - SENAI "Armando de Arruda Pereira"<br>
 💻 Técnico em Desenvolvimento de Sistemas - Escola SENAI de Informática "Paulo Antonio Skaf" <br>
 <hr>
+ 
+</div>
+
+
 
 
 <div align="center">
