@@ -36,7 +36,7 @@
 <div align="center">
  
 ### Habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,cs,angular,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs,angular,ts,js)](https://skillicons.dev)
  
 
 
