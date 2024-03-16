@@ -7,18 +7,6 @@
 
 <hr>
 
-<div>
-✨ Me chamo Guilherme, e atualmente estou cursando análise e desenvolvimento de sistemas na escola SENAI de Informática. <br>
- <br>
-✨ Meu primeiro contato com a programação foi em 2018, enquanto cursava Manutenção Eletroeletrônica. Lá, eu vi um pouco sobre programação com arduíno. <br>
- <br>
-✨ Desde então, eu venho me interessando e aprendendo cada vez mais sobre a área. Atualmente estou estudando C#.
-
-</div>
-
-
-<hr>
-
 <div align="center">
  
  <h3> Formação Acadêmica</h3>
@@ -30,8 +18,14 @@
  
 </div>
 
-
-
+<div align="center">
+ 
+ <h3> Experiência Profissional</h3>
+ 
+💻 Analista de sistemas - Evo Systems, 10/2023 - atual <br>
+<hr>
+ 
+</div>
 
 <div align="center">
  
