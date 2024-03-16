@@ -36,12 +36,12 @@
 <div align="center">
  
 ### Habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,cs,angular,ts,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,angular,kotlin,react,flutter)](https://skillicons.dev)
  
 
 
 ###  Ferramentas 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,vscode,visualstudio,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,vscode,visualstudio,androidstudio)](https://skillicons.dev)
 </div>
 
  <hr>
@@ -64,13 +64,7 @@
  <div>
    <a href="https://gsolivierdev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)"></a>
   <a href="https://www.linkedin.com/in/guilherme-sousa-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermesousa1110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:guilhermesousa1110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
-  
- <hr>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
- <hr>
 </div>
  
