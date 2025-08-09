@@ -14,7 +14,8 @@
 ⚙️ CAI - Eletricista de Manutenção Eletroeletrônica - SENAI "Manuel Garcia Filho"<br>
 ⚙️ CAI - Auxiliar de Produção - SENAI "Armando de Arruda Pereira"<br>
 💻 Técnico em Desenvolvimento de Sistemas - Escola SENAI de Informática "Paulo Antonio Skaf" <br>
-<hr>
+💻 Graduação em Ciência de Dados -  Escola SENAI de Informática "Paulo Antonio Skaf" <br>
+<hr><br>
  
 </div>
 
@@ -35,7 +36,7 @@
 
 
 ###  Ferramentas 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,vscode,visualstudio,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,vscode,visualstudio,androidstudio,sqlite,mysql)](https://skillicons.dev)
 </div>
 
  <hr>
@@ -56,7 +57,6 @@
   ### Links Úteis
  
  <div>
-   <a href="https://gsolivierdev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)"></a>
   <a href="https://www.linkedin.com/in/guilherme-sousa-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:guilhermesousa1110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
